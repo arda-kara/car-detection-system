@@ -23,7 +23,7 @@ pip install opencv-python
 
 ### Setting Up
 1. Clone this repository to your local machine.
-2. Download a Haar cascade XML file for car detection. [Here](https://example.com/car-cascade-xml) is an example link where you can download one.
+2. Download a Haar cascade XML file for car detection. [Here](https://example.com/car-cascade-xml) is an example link where you can download one. (an xml file is included in the repo for usage)
 3. Have a video file ready to test the car detection.
 
 ### Running the Program
